@@ -58,10 +58,33 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaz Usuario\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz Usuario\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz Usuario\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz Usuario\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz Usuario\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz Usuario\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+=======
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+>>>>>>> 4ef2b347e3f5ed4e578ee7ee450f97a80ce15b40
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
