@@ -1,0 +1,10 @@
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\bin\Debug\TP_3K2_GRUPO1.exe.config
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\bin\Debug\TP_3K2_GRUPO1.exe
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\bin\Debug\TP_3K2_GRUPO1.pdb
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.csproj.AssemblyReference.cache
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.Form1.resources
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.Properties.Resources.resources
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.csproj.GenerateResource.cache
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.csproj.CoreCompileInputs.cache
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.exe
+C:\Users\yago\Documents\GitHub\TP_3K2_GRUPO1\TP_3K2_GRUPO1\TP_3K2_GRUPO1\obj\Debug\TP_3K2_GRUPO1.pdb
